@@ -9,7 +9,7 @@ This repository contains my latest **resume**, optimized for:
 
 ### 🔗 Live CV Link  
 Click to view or download:  
-**[Kirill_Kovalevski_LinkedIn_Resume.pdf](./Kirill_Kovalevski_LinkedIn_Resume.pdf)**
+**https://github.com/Kirill-Kovalevski/Kirill-Kovalevski-CV/blob/main/Kirill_Kovalevski_CV_ENG.pdf**
 
 ### 💼 Tech Stack
 Python, JavaScript (ES6+), TypeScript, React, HTML5, CSS3/SCSS  
